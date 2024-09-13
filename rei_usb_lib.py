@@ -52,7 +52,7 @@ import libusb as usb
 import time
 import logging
 from logging.handlers import QueueHandler, QueueListener
-import LoggingUtils_USB20F
+from USB_SSI_Libs import LoggingUtils_USB20F
 
 
 
